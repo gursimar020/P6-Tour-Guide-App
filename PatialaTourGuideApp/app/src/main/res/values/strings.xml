@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Patiala Tour Guide App</string>
+
+    <string name="attraction">Beauty spot</string>
+    <string name="hotel">Hotels</string>
+    <string name="shopping">Shopping</string>
+    <string name="restaurant">Eateries</string>
+
+    <string name="gurdwara_sahib">Gurdwara Shri Dukh Niwaran Sahib</string>
+    <string name="gurdwara_sahib_description">Address: State Highway 8, Upkar Nagar, Patiala, Punjab 147001</string>
+    <string name="baradari_garden">Baradari Garden</string>
+    <string name="baradari_garden_description">Address: Baradari, Patiala, Punjab 147001</string>
+    <string name="moti_bagh_palace">Moti Bagh Palace</string>
+    <string name="moti_bagh_palace_description">Address: Old Moti Bagh, Moti Bagh, Patiala, Punjab 147001</string>
+    <string name="qila_mubarak">Qila Mubarak, Patiala</string>
+    <string name="qila_mubarak_description">Address: Quila Androon, Chandni Chowk, Adalat Bazar, Patiala, Punjab 147001</string>
+    <string name="Kali_Mata_Mandir">Kali Mata Mandir</string>
+    <string name="Kali_Mata_Mandir_description">Address: Manjit Nagar, Sidhu Colony, Patiala, Punjab 147001</string>
+    <string name="Gurdwara_Sahib_Moti_Bagh">Gurdwara Sahib Moti Bagh</string>
+    <string name="Gurdwara_Sahib_Moti_Bagh_description">Address: Moti Bagh, Patiala, Punjab 147001</string>
+    <string name="Dhillon_Fun_World">Dhillon Fun World</string>
+    <string name="Dhillon_Fun_World_description">Address: Jodiyan Sadkan, Devigarh Road, Patiala, Punjab 147001</string>
+
+    <string name="Eqbal_Inn">Eqbal Inn </string>
+    <string name="Eqbal_Inn_description">Address: SST Nagar,Rajpura Road, Patiala, Punjab 147001</string>
+    <string name="Hotel_Mohan_Continental">Hotel Mohan Continental</string>
+    <string name="Hotel_Mohan_Continental_description">Address: Opp GPO, Leela Bhawan Chowk, Rajbaha Road, Patiala, Punjab 147001</string>
+    <string name="Patiala_Retreat">Patiala Retreat</string>
+    <string name="Patiala_Retreat_description">Address: 3, Evergreen, Near 21.No Phatak, Green View Colony, Patiala, Punjab 147001</string>
+    <string name="Harbans_Residency">Harbans Residency</string>
+    <string name="Harbans_Residency_description">Address: Rajbaha Road, Baradari Gardens, Near Leela Bhawan chowk, Patiala, Punjab 147001</string>
+    <string name="The_Yellow_Chilli">The Yellow Chilli </string>
+    <string name="The_Yellow_Chilli_description">Address: Lower Mall Road, Near N.I.S., Patiala, Punjab 147001</string>
+
+    <string name="Omaxe_Mall">Omaxe Mall</string>
+    <string name="Omaxe_Mall_description">Address: Mall Road, Opp Kali Devi Temple, Patiala, Punjab 147001</string>
+    <string name="A.C._Market">A.C. Market</string>
+    <string name="A.C._Market_description">Address: Raghubir Nagar, Adalat Bazar, Patiala, Punjab 147001</string>
+
+
+    <string name="Jaggi_Sweets">Jaggi Sweets</string>
+    <string name="Jaggi_Sweets_description">Address: Near Anardana Chowk, Adalat Bazar, Patiala, Punjab 147001</string>
+    <string name="Boston_Bites">Boston Bites Patiala</string>
+    <string name="Boston_Bites_descritpion">Address: SCO 122-123, New Leela Bhawan, Patiala, Punjab 147001</string>
+    <string name="F2G">F2G</string>
+    <string name="F2G_description">Address: SCO-137, Chotti Baradari, Near Coke Agency,, Patiala, Punjab 147001</string>
+
+</resources>
